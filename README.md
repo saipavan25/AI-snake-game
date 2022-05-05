@@ -1,4 +1,6 @@
 # AI-snake-game
-Manual.py game requires the player to move the snake using directions in the keyboard.
-Auto.py game plays the game automatically using genetic algorithm.
+Manual.py and run the program in any IDLE.<br>
+Use arrows in the keyboard to move the snake.<br>
+Auto.py and run the program in any IDLE<br>
+the game uses genetic algorithm and moves accordingly trying to eat the fruit.<br>
 SnakeGame.pptx is a PPT file.
